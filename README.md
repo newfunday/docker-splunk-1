@@ -2,7 +2,8 @@
 
 This is the official repository for the Splunk Enterprise and Splunk universal forwarder Docker effort. It contains Dockerfiles that you can use to build [Splunk](https://splunk.com) Docker images.
 
-To learn more about the Splunk Enterprise Docker image, see the [Splunk Enterprise Docker image README](https://github.com/splunk/docker-splunk/blob/master/enterprise/README.md).
+To learn more about the Splunk Enterprise Docker image, see the [Splunk Enterprise Docker image README](https://github.com/splunk/docker-splunk/blob/master/enterprise/README.md).  
+
 
 To learn more about the Splunk universal forwarder image, see the [Splunk universal forwarder Docker image README](https://github.com/splunk/docker-splunk/blob/master/universalforwarder/README.md).
 
